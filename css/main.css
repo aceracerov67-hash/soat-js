@@ -17,7 +17,7 @@ body {
 }
 
 
-.clock span {
+/* .clock span {
   display: inline-block;
   min-width: 40px;
   text-align: center;
@@ -65,5 +65,5 @@ body {
   .clock .am-pm {
     font-size: 10px;
   }
-}
+} */
 
